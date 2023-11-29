@@ -1,0 +1,19 @@
+.flex {
+    /* max-width: 500px; */
+    padding: 20px;
+    border: 2px solid green;
+    display: flex;
+    flex: 1;
+    /* flex-direction: row-reverse; */
+    justify-content:center;
+    align-items: flex-start;
+ 
+}
+
+.item {
+    background-color: yellow;
+    margin: 5px;
+    padding: 20px;
+   
+   
+}
